@@ -1,7 +1,7 @@
 FROM prasanthj/docker-hadoop
 
-MAINTAINER Sharad Agarwal
-#Based on Inmobi Hive
+MAINTAINER AymanYac
+#Based on Inmobi Hive from prasanthj
 #Builds the InMobi Hive from trunk
 #Configure Postgres DB
 #Starts Hive metastore Server
